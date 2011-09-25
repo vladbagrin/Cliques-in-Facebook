@@ -4,7 +4,7 @@
 // App information
 require_once('facebook/src/facebook.php');
 header('Content-Type: text/html; charset=utf-8');
-$app_secret = '089ffbdcec8ecdaf97de049dc999c7de';
+$app_secret = 'XXX';
 $app_id = '133058413445569';
 $app_addr = 'http://apps.facebook.com/sandbox_vladb/';
 
